@@ -36,7 +36,7 @@ Other things to check:
 
 ## Flying in AUTOTUNE
 
-Once you are all setup you can take off normally and switch to AUTOTUNE mode once you have gained altitude.
+Once you are all setup you can take off normally, fly in ACRO mode and switch to AUTOTUNE mode once you have gained the altitude enough for recovery if something goes wrong.
 
 When you engage AUTOTUNE mode a few things will happen:
 
